@@ -1,6 +1,9 @@
-# proteus_task
+# flutter_treeview
 
 A new Flutter project.
+
+Output of this project is look like this.
+![Screenshot_1701627341](https://github.com/pravind002/flutter_treeview/assets/89653090/f7b09d17-e887-4083-90c1-be2c0c22d186)
 
 ## Getting Started
 
