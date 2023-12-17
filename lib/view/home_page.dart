@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../model/data_model.dart';
 
 class HomePage extends StatelessWidget {
